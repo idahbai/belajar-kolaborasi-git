@@ -1,0 +1,27 @@
+diff --git a/portofolio.html b/portofolio.html
+index 82b4742..93ca2e3 100644
+--- a/portofolio.html
++++ b/portofolio.html
+@@ -5,7 +5,7 @@
+     <title>Portofolio</title>
+ </head>
+ <body>
+-     <h1>Portofolio Saya</h1>
++     <h1>Portofolio Terbaru</h1>
+      <p>Berisi daftar proyek dan pencapaian saya.</p>
+ </body>
+ </html>
+diff --git a/profil.txt b/profil.txt
+index 17a74f5..c3ad177 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1 +1,2 @@
+ Nama: Budi Keren
++Kota: Jakarta
+diff --git a/profil.txt b/profil.txt
+index 17a74f5..c3ad177 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1 +1,2 @@
+ Nama: Budi Keren
++Kota: Jakarta
